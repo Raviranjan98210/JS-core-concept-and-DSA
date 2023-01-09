@@ -26,3 +26,5 @@ function a() {
 const c = a();
 c();
 
+const arr = [1, 3];
+arr.m;
