@@ -17,5 +17,6 @@ const selectionSort = arr => {
   }
 };
 
+export default selectionSort;
 console.log(selectionSort(arr));
 
